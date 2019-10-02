@@ -1,2 +1,2 @@
 # patatapproject
-https://donataspiragis.github.io/patatapproject/circle.html
+https://donataspiragis.github.io/patatapproject/circles.html
